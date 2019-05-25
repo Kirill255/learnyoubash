@@ -1,0 +1,16 @@
+{
+  "name": "learnyoubash",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "verify": "learnyoubash verify 11_debugging.bash",
+    "runcode": "learnyoubash run 12_debugging.1.bash",
+    "start": "learnyoubash"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "learnyoubash": "^2.1.0"
+  }
+}
